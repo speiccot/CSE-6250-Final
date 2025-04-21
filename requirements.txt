@@ -1,0 +1,6 @@
+torch>=1.10
+pyhealth
+pandas==1.5.3
+numpy==1.24.4
+scikit-learn
+matplotlib
