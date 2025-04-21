@@ -85,7 +85,7 @@ We implement the Deepr model from scratch using PyTorch to predict 30-day hospit
 ## 📄 Report & Presentation
 
 - Final paper and slides included in the repo root.
-- [https://www.youtube.com/watch?v=YHmjDBuApEU](#) ← Replace with YouTube/Drive link.
+- [https://www.youtube.com/watch?v=YHmjDBuApEU](#) 
 
 ---
 
